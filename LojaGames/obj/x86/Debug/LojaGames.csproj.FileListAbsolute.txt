@@ -1,0 +1,54 @@
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\bin\Debug\Loja Games.exe.config
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\bin\Debug\Loja Games.exe
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\bin\Debug\Loja Games.pdb
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmAdmin.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmCategorias.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmConfiguracao.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmEsqueceuSenha.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmEstoque.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmFormaPagamentos.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmLogin.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmNovaSenha.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmPagamentos.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmRelatorio.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmSobre.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmSplash.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmProdutos.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmPrincipal.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Properties.Resources.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmFuncionarios.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmClientes.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmFornecedores.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmVendas.resources
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\Loja Games.exe
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\Loja Games.pdb
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\bin\Debug\Loja Games.exe.manifest
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\bin\Debug\Loja Games.application
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\Loja Games.exe.manifest
+C:\Users\Public\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\Loja Games.application
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\bin\Debug\Loja Games.exe.config
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\Loja Games.exe
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\Loja Games.pdb
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmAdmin.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmCategorias.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmConfiguracao.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmEsqueceuSenha.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmEstoque.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmFormaPagamentos.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmLogin.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmNovaSenha.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmPagamentos.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmRelatorio.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmSobre.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmSplash.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmProdutos.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmPrincipal.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Properties.Resources.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmFuncionarios.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmClientes.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmFornecedores.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.Visao.frmVendas.resources
+C:\Users\Rick\Documents\IFSP\3SEM\LP2\P1\LojaGames\LojaGames\obj\x86\Debug\LojaGames.csproj.GenerateResource.Cache
